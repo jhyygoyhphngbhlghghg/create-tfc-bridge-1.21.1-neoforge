@@ -1,0 +1,23 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/claystone"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.05,
+      "id": "tfc:ore/small_bismuthinite"
+    },
+    {
+      "chance": 0.12,
+      "id": "tfc:ore/small_limonite"
+    },
+    {
+      "chance": 0.03,
+      "id": "tfc:ore/small_magnetite"
+    }
+  ],
+  "processing_time": 150
+}

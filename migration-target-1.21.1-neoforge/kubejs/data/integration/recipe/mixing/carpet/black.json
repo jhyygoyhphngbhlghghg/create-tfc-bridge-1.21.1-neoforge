@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:white_carpet"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:black_dye",
+      "amount": 25
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:black_carpet"
+    }
+  ],
+  "processing_time": 25
+}

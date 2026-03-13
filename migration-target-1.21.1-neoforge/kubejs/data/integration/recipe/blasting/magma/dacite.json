@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/raw/dacite"
+  },
+  "result": {
+    "id": "tfc:rock/magma/dacite"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

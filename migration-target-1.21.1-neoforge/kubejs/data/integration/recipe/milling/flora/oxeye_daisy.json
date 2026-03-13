@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:plant/oxeye_daisy"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:white_dye"
+    }
+  ],
+  "processing_time": 50
+}

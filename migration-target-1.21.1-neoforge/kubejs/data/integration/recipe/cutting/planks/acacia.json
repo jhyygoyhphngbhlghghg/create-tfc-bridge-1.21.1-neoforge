@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/planks/acacia"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:wood/lumber/acacia"
+    }
+  ],
+  "processing_time": 50
+}

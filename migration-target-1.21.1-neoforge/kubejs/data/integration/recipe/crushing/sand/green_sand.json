@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:sand/green"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.25,
+      "id": "tfc:groundcover/guano"
+    }
+  ],
+  "processing_time": 250
+}

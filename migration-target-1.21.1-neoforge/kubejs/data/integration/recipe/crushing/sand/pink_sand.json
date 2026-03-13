@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:sand/pink"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.1,
+      "id": "tfc:powder/kaolinite"
+    }
+  ],
+  "processing_time": 250
+}

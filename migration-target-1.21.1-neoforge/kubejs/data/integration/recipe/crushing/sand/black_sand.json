@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:sand/black"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.2,
+      "id": "tfc:powder/coke"
+    }
+  ],
+  "processing_time": 250
+}

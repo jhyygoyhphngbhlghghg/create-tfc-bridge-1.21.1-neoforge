@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/shale"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:brick/shale"
+    }
+  ],
+  "processing_time": 25
+}

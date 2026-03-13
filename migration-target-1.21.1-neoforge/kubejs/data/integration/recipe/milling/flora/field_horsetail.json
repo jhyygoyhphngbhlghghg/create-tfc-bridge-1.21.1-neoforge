@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:plant/field_horsetail"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:brown_dye"
+    }
+  ],
+  "processing_time": 50
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "tfc:colored_carpet"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:white_carpet"
+    }
+  ]
+}

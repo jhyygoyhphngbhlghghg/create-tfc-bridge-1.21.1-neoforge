@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:cut_scoria"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:polished_cut_scoria"
+    }
+  ],
+  "keep_held_item": true
+}

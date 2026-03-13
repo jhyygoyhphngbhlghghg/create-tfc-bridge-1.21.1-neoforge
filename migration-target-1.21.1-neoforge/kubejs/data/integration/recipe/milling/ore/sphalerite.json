@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:ore/small_sphalerite"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.2,
+      "id": "create:crushed_raw_zinc"
+    }
+  ],
+  "processing_time": 100
+}

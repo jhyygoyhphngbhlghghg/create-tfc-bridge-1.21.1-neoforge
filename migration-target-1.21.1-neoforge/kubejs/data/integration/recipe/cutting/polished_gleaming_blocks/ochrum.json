@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_ochrum"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_ochrum"
+    }
+  ],
+  "processing_time": 100
+}

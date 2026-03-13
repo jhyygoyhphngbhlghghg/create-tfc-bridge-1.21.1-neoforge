@@ -1,0 +1,15 @@
+{
+  "type": "tfc:barrel_sealed",
+  "input_item": {
+    "item": "minecraft:bone_meal"
+  },
+  "input_fluid": {
+    "amount": 500,
+    "fluid": "tfc:limewater"
+  },
+  "output_item": {
+    "count": 1,
+    "id": "tfc:glue"
+  },
+  "duration": 8000
+}

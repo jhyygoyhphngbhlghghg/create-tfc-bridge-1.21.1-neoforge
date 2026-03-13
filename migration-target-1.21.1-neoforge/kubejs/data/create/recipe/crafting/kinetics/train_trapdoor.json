@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:wooden_trapdoors"
+    },
+    {
+      "item": "tfc:metal/ingot/brass"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "create:train_trapdoor"
+  }
+}

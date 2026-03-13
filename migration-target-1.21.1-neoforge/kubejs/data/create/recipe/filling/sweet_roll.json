@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tfc:foods/breads"
+    },
+    {
+      "type": "neoforge:tag",
+      "tag": "c:milk",
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "id": "create:sweet_roll"
+    }
+  ]
+}

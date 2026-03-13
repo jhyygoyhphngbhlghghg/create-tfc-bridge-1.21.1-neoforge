@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/marble"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:brick/marble"
+    }
+  ],
+  "processing_time": 25
+}

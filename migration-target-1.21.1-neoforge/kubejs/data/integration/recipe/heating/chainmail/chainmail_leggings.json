@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "minecraft:chainmail_leggings"
+  },
+  "result_fluid": {
+    "amount": 175,
+    "id": "tfc:metal/cast_iron"
+  },
+  "temperature": 1535
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/log/chestnut"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:wood/stripped_log/chestnut"
+    }
+  ],
+  "processing_time": 50
+}

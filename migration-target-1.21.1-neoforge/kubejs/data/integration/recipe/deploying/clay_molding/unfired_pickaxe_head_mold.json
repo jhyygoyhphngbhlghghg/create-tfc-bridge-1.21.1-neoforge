@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "tag": "integration:tool_heads/pick"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:ceramic/unfired_pickaxe_head_mold"
+    }
+  ],
+  "keep_held_item": true
+}

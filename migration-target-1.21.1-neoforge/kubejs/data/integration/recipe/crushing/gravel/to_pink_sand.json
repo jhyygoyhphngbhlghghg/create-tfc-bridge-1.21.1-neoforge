@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "integration:yields_pink_sand"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:sand/pink"
+    }
+  ],
+  "processing_time": 250
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/raw/conglomerate"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:rock/loose/conglomerate"
+    }
+  ],
+  "processing_time": 250
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create:weathered_copper_tile_stairs"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:tallow",
+      "amount": 30
+    }
+  ],
+  "results": [
+    {
+      "id": "create:waxed_weathered_copper_tile_stairs"
+    }
+  ]
+}

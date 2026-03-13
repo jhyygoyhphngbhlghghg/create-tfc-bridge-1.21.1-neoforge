@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:cut_scorchia"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:polished_cut_scorchia"
+    }
+  ],
+  "keep_held_item": true
+}

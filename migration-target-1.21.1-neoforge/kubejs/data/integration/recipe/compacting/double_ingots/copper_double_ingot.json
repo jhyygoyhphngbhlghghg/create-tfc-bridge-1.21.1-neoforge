@@ -1,0 +1,20 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/ingot/copper"
+    },
+    {
+      "item": "tfc:metal/ingot/copper"
+    },
+    {
+      "item": "tfc:powder/flux"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:metal/double_ingot/copper"
+    }
+  ],
+  "heat_requirement": "heated"
+}

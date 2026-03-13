@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:plant/canna"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:orange_dye"
+    }
+  ],
+  "processing_time": 50
+}

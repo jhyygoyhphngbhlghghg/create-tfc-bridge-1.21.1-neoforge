@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "tfc:firepit_sticks"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tfc:torch"
+    }
+  ],
+  "heat_requirement": "heated"
+}

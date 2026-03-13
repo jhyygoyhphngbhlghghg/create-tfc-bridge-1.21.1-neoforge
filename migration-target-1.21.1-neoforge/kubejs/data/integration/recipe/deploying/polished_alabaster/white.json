@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfc:alabaster/raw/white"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:alabaster/polished/white"
+    }
+  ],
+  "keep_held_item": true
+}

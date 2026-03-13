@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "tag": "integration:magma"
+    },
+    {
+      "tag": "integration:magma"
+    },
+    {
+      "tag": "integration:magma"
+    },
+    {
+      "tag": "integration:magma"
+    }
+  ],
+  "results": [
+    {
+      "count": 6,
+      "id": "create:andesite_alloy"
+    }
+  ]
+}

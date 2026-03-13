@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/schist"
+  },
+  "result": {
+    "id": "tfc:rock/raw/schist"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

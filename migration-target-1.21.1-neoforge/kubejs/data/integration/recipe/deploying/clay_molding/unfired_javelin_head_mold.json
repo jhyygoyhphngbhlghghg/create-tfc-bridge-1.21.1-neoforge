@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "tag": "integration:tool_heads/javelin"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:ceramic/unfired_javelin_head_mold"
+    }
+  ],
+  "keep_held_item": true
+}

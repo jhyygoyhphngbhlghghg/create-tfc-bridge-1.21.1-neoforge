@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "tfc:metal/sheet/copper"
+    }
+  },
+  "result": {
+    "count": 8,
+    "id": "minecraft:copper_block"
+  }
+}

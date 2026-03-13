@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:papyrus"
+    }
+  ],
+  "results": [
+    {
+      "count": 6,
+      "id": "tfc:papyrus_strip"
+    }
+  ],
+  "processing_time": 50
+}

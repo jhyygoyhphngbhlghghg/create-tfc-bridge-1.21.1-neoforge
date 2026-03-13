@@ -1,0 +1,10 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "integration:rock/dacite"
+  },
+  "result_item": {
+    "id": "tfc:rock/magma/dacite"
+  },
+  "temperature": 1425
+}

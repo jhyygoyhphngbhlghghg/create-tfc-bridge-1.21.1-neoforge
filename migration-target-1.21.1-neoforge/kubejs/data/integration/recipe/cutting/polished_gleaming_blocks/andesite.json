@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_andesite"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_andesite"
+    }
+  ],
+  "processing_time": 100
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/quartzite"
+  },
+  "result": {
+    "id": "tfc:rock/raw/quartzite"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

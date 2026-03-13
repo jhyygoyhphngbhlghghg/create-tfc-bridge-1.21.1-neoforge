@@ -1,0 +1,33 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:ore/halite"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "kubejs:crystalisation_catalyst"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:rose_quartz"
+    },
+    {
+      "chance": 0.5,
+      "id": "kubejs:crystalisation_catalyst"
+    }
+  ],
+  "heat_requirement": "heated"
+}

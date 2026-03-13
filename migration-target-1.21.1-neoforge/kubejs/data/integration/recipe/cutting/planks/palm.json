@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/planks/palm"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:wood/lumber/palm"
+    }
+  ],
+  "processing_time": 50
+}

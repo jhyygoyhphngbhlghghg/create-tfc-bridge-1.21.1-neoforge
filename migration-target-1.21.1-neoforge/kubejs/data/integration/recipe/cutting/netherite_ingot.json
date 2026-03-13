@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "create:industrial_iron_block"
+    }
+  ],
+  "processing_time": 100
+}

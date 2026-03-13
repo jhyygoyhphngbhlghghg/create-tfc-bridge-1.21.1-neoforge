@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/andesite"
+  },
+  "result": {
+    "id": "tfc:rock/raw/andesite"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

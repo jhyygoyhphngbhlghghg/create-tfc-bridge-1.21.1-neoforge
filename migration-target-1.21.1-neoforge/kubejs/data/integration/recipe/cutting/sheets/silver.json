@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/sheet/silver"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tfc:metal/ingot/silver"
+    }
+  ],
+  "processing_time": 200
+}

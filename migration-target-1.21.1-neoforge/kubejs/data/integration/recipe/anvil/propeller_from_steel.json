@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:sheets/steel"
+  },
+  "result": {
+    "count": 2,
+    "id": "create:propeller"
+  },
+  "tier": 4,
+  "rules": [
+    "bend_last",
+    "draw_not_last",
+    "bend_not_last"
+  ]
+}

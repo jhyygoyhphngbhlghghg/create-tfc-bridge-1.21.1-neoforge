@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:food/oat"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:food/oat_grain"
+    },
+    {
+      "id": "tfc:straw"
+    }
+  ],
+  "processing_time": 25
+}

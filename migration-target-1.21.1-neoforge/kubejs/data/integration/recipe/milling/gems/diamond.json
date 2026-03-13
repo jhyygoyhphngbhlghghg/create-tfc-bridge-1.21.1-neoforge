@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:ore/diamond"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:gem/diamond"
+    }
+  ],
+  "processing_time": 50
+}

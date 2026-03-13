@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/rhyolite"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:brick/rhyolite"
+    }
+  ],
+  "processing_time": 25
+}

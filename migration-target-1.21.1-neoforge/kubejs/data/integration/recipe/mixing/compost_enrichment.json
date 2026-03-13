@@ -1,0 +1,54 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:compost"
+    },
+    {
+      "item": "tfc:compost"
+    },
+    {
+      "item": "tfc:compost"
+    },
+    {
+      "item": "tfc:compost"
+    },
+    {
+      "item": "tfc:compost"
+    },
+    {
+      "item": "tfc:compost"
+    },
+    {
+      "item": "tfc:compost"
+    },
+    {
+      "tag": "integration:tree_saplings"
+    },
+    {
+      "tag": "integration:tree_saplings"
+    },
+    {
+      "tag": "integration:tree_saplings"
+    },
+    {
+      "tag": "integration:tree_saplings"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "minecraft:water",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "count": 7,
+      "id": "tfc:compost"
+    },
+    {
+      "chance": 0.5,
+      "id": "tfc:compost"
+    }
+  ],
+  "processing_time": 100
+}

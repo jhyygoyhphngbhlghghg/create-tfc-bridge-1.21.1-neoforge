@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:ore/opal"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:powder/opal"
+    }
+  ],
+  "processing_time": 100
+}

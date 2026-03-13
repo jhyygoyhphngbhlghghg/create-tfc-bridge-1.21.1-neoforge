@@ -1,0 +1,52 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tfc:metal/ingot/steel"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "tfc:metal/ingot/steel"
+        },
+        {
+          "type": "neoforge:single",
+          "fluid": "kubejs:solder",
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "id": "tfc:metal/ingot/steel"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tfc:metal/ingot/steel"
+        },
+        {
+          "item": "create:polished_rose_quartz"
+        }
+      ],
+      "results": [
+        {
+          "id": "tfc:metal/ingot/steel"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "create:electron_tube"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "tfc:metal/ingot/steel"
+  }
+}

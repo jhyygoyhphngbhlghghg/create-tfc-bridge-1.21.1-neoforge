@@ -1,0 +1,19 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "C",
+    "C",
+    "C",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "tfc:metal/rod/black_steel"
+    }
+  },
+  "result": {
+    "count": 32,
+    "id": "tfc:metal/chain/black_steel"
+  },
+  "acceptMirrored": false
+}

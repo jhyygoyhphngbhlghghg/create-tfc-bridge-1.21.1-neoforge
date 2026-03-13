@@ -1,0 +1,52 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_casing"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:brass_casing"
+        },
+        {
+          "type": "neoforge:single",
+          "fluid": "kubejs:solder",
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "id": "create:brass_casing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_casing"
+        },
+        {
+          "item": "create:precision_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:brass_casing"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "create:rotation_speed_controller"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "create:brass_casing"
+  }
+}

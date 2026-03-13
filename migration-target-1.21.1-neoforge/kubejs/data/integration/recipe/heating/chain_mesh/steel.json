@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "kubejs:steel_chain_mesh"
+  },
+  "result_fluid": {
+    "amount": 25,
+    "id": "tfc:metal/steel"
+  },
+  "temperature": 1540
+}

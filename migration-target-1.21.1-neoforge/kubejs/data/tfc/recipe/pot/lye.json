@@ -1,0 +1,30 @@
+{
+  "type": "tfc:pot",
+  "ingredients": [
+    {
+      "tag": "integration:ash"
+    },
+    {
+      "tag": "integration:ash"
+    },
+    {
+      "tag": "integration:ash"
+    },
+    {
+      "tag": "integration:ash"
+    },
+    {
+      "tag": "integration:ash"
+    }
+  ],
+  "fluid_ingredient": {
+    "amount": 1000,
+    "fluid": "minecraft:water"
+  },
+  "duration": 2000,
+  "temperature": 600,
+  "fluid_output": {
+    "amount": 1000,
+    "id": "tfc:lye"
+  }
+}

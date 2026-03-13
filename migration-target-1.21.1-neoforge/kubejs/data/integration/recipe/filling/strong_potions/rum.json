@@ -1,0 +1,32 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "kubejs:potion_strong_rum",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "nbt": {
+        "Potion": "minecraft:water",
+        "display": {
+          "Name": "{\"text\":\"Alchemical Rum Splash Potion\",\"italic\":false}"
+        },
+        "CustomPotionEffects": [
+          {
+            "Id": 5,
+            "Amplifier": 1,
+            "Duration": 1800
+          }
+        ],
+        "CustomPotionColor": 7209250
+      },
+      "id": "minecraft:splash_potion"
+    }
+  ]
+}

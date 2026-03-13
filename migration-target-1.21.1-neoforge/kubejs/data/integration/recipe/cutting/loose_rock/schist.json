@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/schist"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:brick/schist"
+    }
+  ],
+  "processing_time": 25
+}

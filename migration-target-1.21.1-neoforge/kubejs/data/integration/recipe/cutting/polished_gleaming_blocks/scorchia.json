@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_scorchia"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_scorchia"
+    }
+  ],
+  "processing_time": 100
+}

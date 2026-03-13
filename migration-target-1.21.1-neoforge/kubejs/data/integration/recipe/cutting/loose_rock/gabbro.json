@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/gabbro"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:brick/gabbro"
+    }
+  ],
+  "processing_time": 25
+}

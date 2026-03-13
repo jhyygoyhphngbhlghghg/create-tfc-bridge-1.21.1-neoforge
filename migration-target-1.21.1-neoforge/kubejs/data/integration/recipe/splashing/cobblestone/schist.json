@@ -1,0 +1,23 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/schist"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.02,
+      "id": "tfc:ore/small_native_silver"
+    },
+    {
+      "chance": 0.1,
+      "id": "tfc:ore/small_sphalerite"
+    },
+    {
+      "chance": 0.08,
+      "id": "tfc:ore/small_tetrahedrite"
+    }
+  ],
+  "processing_time": 150
+}

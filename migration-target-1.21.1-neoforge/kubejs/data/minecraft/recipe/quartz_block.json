@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "tfc:ore/halite"
+    }
+  },
+  "result": {
+    "count": 8,
+    "id": "minecraft:quartz_block"
+  }
+}

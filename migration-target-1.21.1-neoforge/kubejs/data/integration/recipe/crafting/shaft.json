@@ -1,0 +1,28 @@
+{
+  "type": "tfc:advanced_shaped_crafting",
+  "pattern": [
+    "RC",
+    "R "
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:stone"
+    },
+    "C": {
+      "tag": "tfc:chisels"
+    }
+  },
+  "result": {
+    "count": 2,
+    "id": "create:shaft"
+  },
+  "remainder": {
+    "modifiers": [
+      {
+        "type": "tfc:damage_crafting_remainder"
+      }
+    ]
+  },
+  "input_row": 0,
+  "input_column": 1
+}

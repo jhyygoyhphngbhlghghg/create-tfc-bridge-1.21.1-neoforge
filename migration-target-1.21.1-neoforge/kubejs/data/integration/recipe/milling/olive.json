@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:food/olive"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tfc:olive_paste"
+    }
+  ],
+  "processing_time": 50
+}

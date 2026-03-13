@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "kubejs:wrought_iron_chain_mesh"
+    }
+  },
+  "result": {
+    "id": "minecraft:chainmail_helmet"
+  }
+}

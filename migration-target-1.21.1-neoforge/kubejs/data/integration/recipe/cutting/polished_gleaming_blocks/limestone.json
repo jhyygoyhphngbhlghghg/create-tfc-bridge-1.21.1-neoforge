@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_limestone"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_limestone"
+    }
+  ],
+  "processing_time": 100
+}

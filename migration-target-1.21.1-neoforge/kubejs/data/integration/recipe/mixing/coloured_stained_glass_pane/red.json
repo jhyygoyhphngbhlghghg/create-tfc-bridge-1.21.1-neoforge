@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:white_stained_glass_pane"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:red_dye",
+      "amount": 25
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:red_stained_glass_pane"
+    }
+  ],
+  "processing_time": 25
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:cut_tuff"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:polished_cut_tuff"
+    }
+  ],
+  "keep_held_item": true
+}

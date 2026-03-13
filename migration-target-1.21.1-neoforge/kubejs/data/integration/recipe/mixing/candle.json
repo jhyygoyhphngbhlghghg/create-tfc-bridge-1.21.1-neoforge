@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:string"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:tallow",
+      "amount": 40
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:candle"
+    }
+  ],
+  "processing_time": 10
+}

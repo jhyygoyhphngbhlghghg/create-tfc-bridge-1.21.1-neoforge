@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "minecraft:water",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "tfc:black_dye"
+    }
+  ],
+  "processing_time": 200,
+  "heat_requirement": "heated"
+}

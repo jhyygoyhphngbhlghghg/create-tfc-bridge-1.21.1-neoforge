@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/shale"
+  },
+  "result": {
+    "id": "tfc:rock/raw/shale"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "integration:rock/granite"
+  },
+  "result_item": {
+    "id": "tfc:rock/magma/granite"
+  },
+  "temperature": 1425
+}

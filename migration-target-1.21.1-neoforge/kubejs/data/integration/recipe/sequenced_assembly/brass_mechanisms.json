@@ -1,0 +1,51 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tfc:metal/sheet/brass"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_brass_mechanisms"
+        },
+        [
+          {
+            "tag": "tfc:chisels"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kubejs:incomplete_brass_mechanisms"
+        }
+      ],
+      "keep_held_item": true
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_brass_mechanisms"
+        }
+      ],
+      "results": [
+        {
+          "id": "kubejs:incomplete_brass_mechanisms"
+        }
+      ],
+      "processing_time": 200
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:brass_mechanisms"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "kubejs:incomplete_brass_mechanisms"
+  }
+}

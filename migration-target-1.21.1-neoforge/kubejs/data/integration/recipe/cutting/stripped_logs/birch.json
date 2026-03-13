@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/stripped_log/birch"
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "id": "tfc:wood/lumber/birch"
+    }
+  ],
+  "processing_time": 50
+}

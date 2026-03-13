@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:exposed_cut_copper_stairs"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:tallow",
+      "amount": 30
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:waxed_exposed_cut_copper_stairs"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:alabaster/polished"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:light_blue_dye",
+      "amount": 25
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:alabaster/polished/light_blue"
+    }
+  ],
+  "processing_time": 25
+}

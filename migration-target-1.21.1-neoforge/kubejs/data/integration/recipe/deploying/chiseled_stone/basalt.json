@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfc:rock/bricks/basalt"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/chiseled/basalt"
+    }
+  ],
+  "keep_held_item": true
+}

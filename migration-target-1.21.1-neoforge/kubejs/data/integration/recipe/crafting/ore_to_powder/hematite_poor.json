@@ -1,0 +1,25 @@
+{
+  "type": "tfc:advanced_shapeless_crafting",
+  "ingredients": [
+    {
+      "item": "tfc:ore/poor_hematite"
+    },
+    {
+      "tag": "tfc:hammers"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "tfc:powder/hematite"
+  },
+  "remainder": {
+    "modifiers": [
+      {
+        "type": "tfc:damage_crafting_remainder"
+      }
+    ]
+  },
+  "primary_ingredient": {
+    "tag": "tfc:hammers"
+  }
+}

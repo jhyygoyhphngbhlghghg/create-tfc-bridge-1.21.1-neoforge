@@ -1,0 +1,20 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/ingot/bronze"
+    },
+    {
+      "item": "tfc:metal/ingot/bronze"
+    },
+    {
+      "item": "tfc:powder/flux"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:metal/double_ingot/bronze"
+    }
+  ],
+  "heat_requirement": "heated"
+}

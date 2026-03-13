@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:waxed_copper_block"
+    }
+  },
+  "result": {
+    "count": 4,
+    "id": "create:waxed_copper_tiles"
+  }
+}

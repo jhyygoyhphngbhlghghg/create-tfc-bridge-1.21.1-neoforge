@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfc:rock/raw/gabbro"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/smooth/gabbro"
+    }
+  ],
+  "keep_held_item": true
+}

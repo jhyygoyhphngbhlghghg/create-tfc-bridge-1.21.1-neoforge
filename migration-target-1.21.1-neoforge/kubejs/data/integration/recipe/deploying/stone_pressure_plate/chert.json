@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfc:brick/chert"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/pressure_plate/chert"
+    }
+  ],
+  "keep_held_item": true
+}

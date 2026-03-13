@@ -1,0 +1,14 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/bell_mold"
+  },
+  "fluid": {
+    "amount": 100,
+    "fluid": "tfc:metal/unknown"
+  },
+  "result": {
+    "id": "create:peculiar_bell"
+  },
+  "break_chance": 1
+}

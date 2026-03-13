@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "tag": "tfc:firepit_logs"
+  },
+  "result": {
+    "id": "kubejs:wood_ash"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

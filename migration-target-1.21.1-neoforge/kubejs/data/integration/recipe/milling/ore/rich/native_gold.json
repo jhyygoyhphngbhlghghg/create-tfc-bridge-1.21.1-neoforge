@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:ore/rich_native_gold"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.7,
+      "id": "create:crushed_raw_gold"
+    }
+  ],
+  "processing_time": 100
+}

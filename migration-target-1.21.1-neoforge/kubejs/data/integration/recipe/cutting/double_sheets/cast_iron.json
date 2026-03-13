@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/double_sheet/cast_iron"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tfc:metal/sheet/cast_iron"
+    }
+  ],
+  "processing_time": 200
+}

@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:barrel_sealed",
+  "input_item": {
+    "tag": "integration:unprocessed_paper"
+  },
+  "input_fluid": {
+    "amount": 200,
+    "fluid": "minecraft:water"
+  },
+  "output_item": {
+    "id": "tfc:soaked_papyrus_strip"
+  },
+  "duration": 8000
+}

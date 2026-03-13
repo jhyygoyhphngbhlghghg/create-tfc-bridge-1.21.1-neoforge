@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create:exposed_copper_tiles"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:tallow",
+      "amount": 40
+    }
+  ],
+  "results": [
+    {
+      "id": "create:waxed_exposed_copper_tiles"
+    }
+  ]
+}

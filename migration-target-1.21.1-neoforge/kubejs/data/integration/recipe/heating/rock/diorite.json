@@ -1,0 +1,10 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "integration:rock/diorite"
+  },
+  "result_item": {
+    "id": "tfc:rock/magma/diorite"
+  },
+  "temperature": 1425
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:olive_oil_water",
+      "amount": 250
+    },
+    {
+      "item": "tfc:jute_net"
+    }
+  ],
+  "results": [
+    {
+      "amount": 50,
+      "id": "tfc:olive_oil"
+    },
+    {
+      "id": "tfc:dirty_jute_net"
+    }
+  ],
+  "processing_time": 50
+}

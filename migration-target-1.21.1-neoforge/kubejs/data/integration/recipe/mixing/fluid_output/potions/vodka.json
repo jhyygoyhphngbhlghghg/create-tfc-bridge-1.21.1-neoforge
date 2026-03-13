@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:vodka",
+      "amount": 100
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "results": [
+    {
+      "amount": 40,
+      "id": "kubejs:potion_vodka"
+    }
+  ],
+  "processing_time": 200,
+  "heat_requirement": "heated"
+}

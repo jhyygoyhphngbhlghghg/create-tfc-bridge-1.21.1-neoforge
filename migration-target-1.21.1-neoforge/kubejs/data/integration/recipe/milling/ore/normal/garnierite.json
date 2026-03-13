@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:ore/normal_garnierite"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.5,
+      "id": "kubejs:crushed_nickel_ore"
+    }
+  ],
+  "processing_time": 100
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:brick/schist"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/button/schist"
+    }
+  ],
+  "processing_time": 25
+}

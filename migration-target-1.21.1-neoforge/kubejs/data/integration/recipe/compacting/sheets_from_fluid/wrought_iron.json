@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:metal/wrought_iron",
+      "amount": 200
+    },
+    {
+      "item": "kubejs:crystalisation_catalyst"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:metal/sheet/wrought_iron"
+    },
+    {
+      "chance": 0.5,
+      "id": "kubejs:crystalisation_catalyst"
+    }
+  ]
+}

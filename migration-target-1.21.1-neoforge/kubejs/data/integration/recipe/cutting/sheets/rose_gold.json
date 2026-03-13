@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/sheet/rose_gold"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tfc:metal/ingot/rose_gold"
+    }
+  ],
+  "processing_time": 200
+}

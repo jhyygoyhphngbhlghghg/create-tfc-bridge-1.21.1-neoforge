@@ -1,0 +1,68 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:andesite_alloy"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:andesite_alloy"
+        },
+        {
+          "type": "neoforge:single",
+          "fluid": "kubejs:solder",
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "id": "create:andesite_alloy"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:andesite_alloy"
+        },
+        {
+          "item": "create:electron_tube"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:andesite_alloy"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:andesite_alloy"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:andesite_alloy"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "create:display_board"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "create:andesite_alloy"
+  }
+}

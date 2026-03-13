@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_granite"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_granite"
+    }
+  ],
+  "processing_time": 100
+}

@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:metal/black_steel",
+      "amount": 200
+    },
+    {
+      "item": "kubejs:crystalisation_catalyst"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:metal/sheet/black_steel"
+    },
+    {
+      "chance": 0.5,
+      "id": "kubejs:crystalisation_catalyst"
+    }
+  ]
+}

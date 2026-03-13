@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "R R",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "tfc:metal/rod/copper"
+    }
+  },
+  "result": {
+    "count": 16,
+    "id": "create:copper_scaffolding"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "kubejs:potion_sake",
+      "amount": 100
+    },
+    {
+      "item": "tfc:powder/kaolinite"
+    }
+  ],
+  "results": [
+    {
+      "amount": 40,
+      "id": "kubejs:potion_strong_sake"
+    }
+  ],
+  "processing_time": 200,
+  "heat_requirement": "superheated"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tfc:barrel_sealed",
+  "input_item": {
+    "item": "create:scoria"
+  },
+  "input_fluid": {
+    "amount": 250,
+    "fluid": "tfc:lye"
+  },
+  "output_item": {
+    "id": "create:cut_scoria"
+  },
+  "duration": 8000
+}

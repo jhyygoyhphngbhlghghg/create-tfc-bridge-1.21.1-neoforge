@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wool"
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "id": "tfc:wool_yarn"
+    }
+  ],
+  "processing_time": 50
+}

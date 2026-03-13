@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:ore/gypsum"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:alabaster_brick"
+    }
+  ],
+  "processing_time": 50
+}

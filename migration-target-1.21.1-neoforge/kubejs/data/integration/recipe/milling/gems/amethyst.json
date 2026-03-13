@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:ore/amethyst"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:gem/amethyst"
+    }
+  ],
+  "processing_time": 50
+}

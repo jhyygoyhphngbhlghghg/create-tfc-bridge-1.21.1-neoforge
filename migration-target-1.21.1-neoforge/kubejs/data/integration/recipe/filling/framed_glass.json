@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:lye",
+      "amount": 50
+    }
+  ],
+  "results": [
+    {
+      "id": "create:framed_glass"
+    }
+  ]
+}

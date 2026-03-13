@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:rotten_compost"
+    },
+    {
+      "tag": "tfc:foods/raw_meats"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:rotten_flesh"
+    },
+    {
+      "chance": 0.9,
+      "id": "tfc:rotten_compost"
+    }
+  ]
+}

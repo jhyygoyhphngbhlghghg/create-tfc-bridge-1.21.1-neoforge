@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:food/rye"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:food/rye_grain"
+    },
+    {
+      "id": "tfc:straw"
+    }
+  ],
+  "processing_time": 25
+}

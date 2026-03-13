@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfc:ore/small_limonite"
+    },
+    {
+      "tag": "tfc:hammers"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tfc:powder/limonite"
+    }
+  ],
+  "keep_held_item": true
+}

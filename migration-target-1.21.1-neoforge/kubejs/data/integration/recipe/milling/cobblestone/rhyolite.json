@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/rhyolite"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/gravel/rhyolite"
+    }
+  ],
+  "processing_time": 250
+}

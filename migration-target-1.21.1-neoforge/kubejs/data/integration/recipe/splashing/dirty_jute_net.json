@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "tfc:dirty_jute_net"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:jute_net"
+    }
+  ],
+  "processing_time": 100
+}

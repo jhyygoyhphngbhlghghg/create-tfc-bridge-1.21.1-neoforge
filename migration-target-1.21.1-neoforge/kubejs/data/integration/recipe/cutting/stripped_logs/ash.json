@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/stripped_log/ash"
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "id": "tfc:wood/lumber/ash"
+    }
+  ],
+  "processing_time": 50
+}

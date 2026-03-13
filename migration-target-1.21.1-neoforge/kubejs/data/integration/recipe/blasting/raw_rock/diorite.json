@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/diorite"
+  },
+  "result": {
+    "id": "tfc:rock/raw/diorite"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

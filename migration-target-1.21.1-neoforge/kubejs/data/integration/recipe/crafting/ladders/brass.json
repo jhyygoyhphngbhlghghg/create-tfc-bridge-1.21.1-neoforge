@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "RRR",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "tfc:metal/rod/brass"
+    }
+  },
+  "result": {
+    "count": 16,
+    "id": "create:brass_ladder"
+  }
+}

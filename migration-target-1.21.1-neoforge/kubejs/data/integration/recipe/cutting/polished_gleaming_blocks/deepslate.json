@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_deepslate"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_deepslate"
+    }
+  ],
+  "processing_time": 100
+}

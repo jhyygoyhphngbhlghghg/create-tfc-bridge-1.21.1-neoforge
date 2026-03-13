@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/planks/pine"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:wood/lumber/pine"
+    }
+  ],
+  "processing_time": 50
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:food/wheat"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:food/wheat_grain"
+    },
+    {
+      "id": "tfc:straw"
+    }
+  ],
+  "processing_time": 25
+}

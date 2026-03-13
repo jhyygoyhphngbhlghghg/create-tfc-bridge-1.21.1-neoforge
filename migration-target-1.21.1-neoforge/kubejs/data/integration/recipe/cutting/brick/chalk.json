@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:brick/chalk"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/button/chalk"
+    }
+  ],
+  "processing_time": 25
+}

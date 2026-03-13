@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/dolomite"
+  },
+  "result": {
+    "id": "tfc:rock/raw/dolomite"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

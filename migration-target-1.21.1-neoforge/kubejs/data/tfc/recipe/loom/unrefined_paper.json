@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:loom",
+  "ingredient": {
+    "item": "tfc:soaked_papyrus_strip",
+    "count": 6
+  },
+  "result": {
+    "id": "tfc:unrefined_paper"
+  },
+  "steps": 8,
+  "texture": "tfc:block/unrefined_paper"
+}

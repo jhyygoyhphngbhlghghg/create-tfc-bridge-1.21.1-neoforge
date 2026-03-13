@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfc:brick/rhyolite"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/pressure_plate/rhyolite"
+    }
+  ],
+  "keep_held_item": true
+}

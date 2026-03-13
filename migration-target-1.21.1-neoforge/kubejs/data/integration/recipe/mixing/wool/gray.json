@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:gray_dye",
+      "amount": 25
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:gray_wool"
+    }
+  ],
+  "processing_time": 25
+}

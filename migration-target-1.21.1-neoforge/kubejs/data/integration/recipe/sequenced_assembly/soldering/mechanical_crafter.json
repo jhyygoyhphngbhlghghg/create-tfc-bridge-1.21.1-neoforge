@@ -1,0 +1,68 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "tfc:workbenches"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:crafting_table"
+        },
+        {
+          "type": "neoforge:single",
+          "fluid": "kubejs:solder",
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:crafting_table"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:crafting_table"
+        },
+        {
+          "item": "create:brass_casing"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:crafting_table"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:crafting_table"
+        },
+        {
+          "item": "create:cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "id": "minecraft:crafting_table"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "create:mechanical_crafter"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "minecraft:crafting_table"
+  }
+}

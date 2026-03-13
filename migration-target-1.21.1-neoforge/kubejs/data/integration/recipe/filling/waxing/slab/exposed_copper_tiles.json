@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create:exposed_copper_tile_slab"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:tallow",
+      "amount": 20
+    }
+  ],
+  "results": [
+    {
+      "id": "create:waxed_exposed_copper_tile_slab"
+    }
+  ]
+}

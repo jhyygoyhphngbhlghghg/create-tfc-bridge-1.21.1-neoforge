@@ -1,0 +1,67 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:smooth_stone_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        },
+        [
+          {
+            "item": "tfc:metal/rod/steel"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create:incomplete_track"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        },
+        [
+          {
+            "item": "tfc:metal/rod/steel"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create:incomplete_track"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:incomplete_track"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "create:track"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "create:incomplete_track"
+  }
+}

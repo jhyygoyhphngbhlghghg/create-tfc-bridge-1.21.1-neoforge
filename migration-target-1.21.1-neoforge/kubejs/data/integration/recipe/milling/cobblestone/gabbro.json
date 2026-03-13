@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/gabbro"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/gravel/gabbro"
+    }
+  ],
+  "processing_time": 250
+}

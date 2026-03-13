@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/phyllite"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:brick/phyllite"
+    }
+  ],
+  "processing_time": 25
+}

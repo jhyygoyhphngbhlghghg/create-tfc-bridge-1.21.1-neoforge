@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    " I ",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "tfc:metal/rod/tin"
+    },
+    "I": {
+      "item": "minecraft:item_frame"
+    }
+  },
+  "result": {
+    "count": 8,
+    "id": "create:copycat_panel"
+  }
+}

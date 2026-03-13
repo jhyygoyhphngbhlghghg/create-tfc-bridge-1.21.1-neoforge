@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/dacite"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/gravel/dacite"
+    }
+  ],
+  "processing_time": 250
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:food/maize_grain"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.75,
+      "id": "tfc:food/maize_flour"
+    }
+  ],
+  "processing_time": 100
+}

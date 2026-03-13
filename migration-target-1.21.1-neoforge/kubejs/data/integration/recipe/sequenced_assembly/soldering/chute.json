@@ -1,0 +1,68 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tfc:metal/ingot/cast_iron"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "tfc:metal/ingot/cast_iron"
+        },
+        {
+          "type": "neoforge:single",
+          "fluid": "kubejs:solder",
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "id": "tfc:metal/ingot/cast_iron"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tfc:metal/ingot/cast_iron"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "id": "tfc:metal/ingot/cast_iron"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tfc:metal/ingot/cast_iron"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "id": "tfc:metal/ingot/cast_iron"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "id": "create:chute"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "tfc:metal/ingot/cast_iron"
+  }
+}

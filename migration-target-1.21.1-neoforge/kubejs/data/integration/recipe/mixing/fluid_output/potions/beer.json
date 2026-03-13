@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:beer",
+      "amount": 100
+    },
+    {
+      "item": "tfc:powder/salt"
+    }
+  ],
+  "results": [
+    {
+      "amount": 40,
+      "id": "kubejs:potion_beer"
+    }
+  ],
+  "processing_time": 200,
+  "heat_requirement": "heated"
+}

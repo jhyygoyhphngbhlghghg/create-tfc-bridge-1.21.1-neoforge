@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:brick/diorite"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/button/diorite"
+    }
+  ],
+  "processing_time": 25
+}

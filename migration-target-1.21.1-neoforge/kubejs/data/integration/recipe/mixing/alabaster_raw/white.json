@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:alabaster/raw"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:white_dye",
+      "amount": 25
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:alabaster/raw/white"
+    }
+  ],
+  "processing_time": 25
+}

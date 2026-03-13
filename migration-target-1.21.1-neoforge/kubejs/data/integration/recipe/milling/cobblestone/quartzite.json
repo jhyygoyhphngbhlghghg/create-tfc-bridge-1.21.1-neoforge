@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/quartzite"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:rock/gravel/quartzite"
+    }
+  ],
+  "processing_time": 250
+}

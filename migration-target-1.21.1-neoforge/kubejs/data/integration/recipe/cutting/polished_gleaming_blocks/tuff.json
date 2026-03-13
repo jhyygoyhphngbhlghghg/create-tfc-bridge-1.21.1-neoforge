@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_tuff"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_tuff"
+    }
+  ],
+  "processing_time": 100
+}

@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:metal/tin",
+      "amount": 80
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:metal/weak_steel",
+      "amount": 10
+    },
+    {
+      "item": "tfc:powder/flux",
+      "count": 10
+    }
+  ],
+  "results": [
+    {
+      "amount": 100,
+      "id": "kubejs:solder"
+    }
+  ],
+  "processing_time": 100,
+  "heat_requirement": "superheated"
+}

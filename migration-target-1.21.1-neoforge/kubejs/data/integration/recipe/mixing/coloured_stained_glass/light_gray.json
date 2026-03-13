@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:white_stained_glass"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:light_gray_dye",
+      "amount": 25
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:light_gray_stained_glass"
+    }
+  ],
+  "processing_time": 25
+}

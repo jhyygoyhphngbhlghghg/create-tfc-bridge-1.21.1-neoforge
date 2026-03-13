@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "kubejs:pig_iron_sheet"
+  },
+  "result_fluid": {
+    "amount": 200,
+    "id": "tfc:metal/pig_iron"
+  },
+  "temperature": 1535
+}

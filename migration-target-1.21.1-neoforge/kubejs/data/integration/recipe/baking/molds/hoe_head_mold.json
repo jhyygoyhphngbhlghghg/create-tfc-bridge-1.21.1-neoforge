@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "tfc:ceramic/unfired_hoe_head_mold"
+  },
+  "result": {
+    "id": "tfc:ceramic/hoe_head_mold"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

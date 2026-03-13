@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/planks/blackwood"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:wood/lumber/blackwood"
+    }
+  ],
+  "processing_time": 50
+}

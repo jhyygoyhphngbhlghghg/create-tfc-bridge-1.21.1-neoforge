@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:ore/sapphire"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "tfc:powder/sapphire"
+    }
+  ],
+  "processing_time": 100
+}

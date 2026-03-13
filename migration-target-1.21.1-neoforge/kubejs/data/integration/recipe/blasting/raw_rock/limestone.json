@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/limestone"
+  },
+  "result": {
+    "id": "tfc:rock/raw/limestone"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

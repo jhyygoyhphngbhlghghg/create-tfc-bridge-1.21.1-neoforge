@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/rhyolite"
+  },
+  "result": {
+    "id": "tfc:rock/raw/rhyolite"
+  },
+  "experience": 0.0,
+  "cookingtime": 400
+}

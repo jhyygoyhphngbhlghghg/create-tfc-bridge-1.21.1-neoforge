@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "kubejs:potion_corn_whiskey",
+      "amount": 100
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "results": [
+    {
+      "amount": 40,
+      "id": "kubejs:potion_strong_corn_whiskey"
+    }
+  ],
+  "processing_time": 200,
+  "heat_requirement": "superheated"
+}

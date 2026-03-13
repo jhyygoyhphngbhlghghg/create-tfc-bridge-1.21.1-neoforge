@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:aggregate",
+      "count": 4
+    },
+    {
+      "item": "tfc:ore/small_native_copper"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "minecraft:lava",
+      "amount": 200
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:dripstone_block"
+    }
+  ],
+  "processing_time": 100
+}

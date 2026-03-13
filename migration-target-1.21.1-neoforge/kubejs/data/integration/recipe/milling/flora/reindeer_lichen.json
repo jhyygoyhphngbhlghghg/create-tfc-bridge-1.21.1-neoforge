@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:plant/reindeer_lichen"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:green_dye"
+    }
+  ],
+  "processing_time": 50
+}

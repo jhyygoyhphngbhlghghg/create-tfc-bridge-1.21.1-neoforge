@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "tfc:metal/weak_red_steel",
+      "amount": 200
+    },
+    {
+      "item": "kubejs:crystalisation_catalyst"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:weak_red_steel_sheet"
+    },
+    {
+      "chance": 0.5,
+      "id": "kubejs:crystalisation_catalyst"
+    }
+  ]
+}

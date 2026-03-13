@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "results": [
+    {
+      "id": "waterflasks:leather_side"
+    }
+  ],
+  "processing_time": 50
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_crimsite"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_crimsite"
+    }
+  ],
+  "processing_time": 100
+}

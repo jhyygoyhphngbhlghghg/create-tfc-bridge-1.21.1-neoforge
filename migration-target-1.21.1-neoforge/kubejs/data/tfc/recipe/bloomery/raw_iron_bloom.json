@@ -1,0 +1,15 @@
+{
+  "type": "tfc:bloomery",
+  "result": {
+    "id": "tfc:raw_iron_bloom"
+  },
+  "fluid": {
+    "amount": 100,
+    "fluid": "tfc:metal/cast_iron"
+  },
+  "catalyst": {
+    "tag": "tfc:forge_fuel",
+    "count": 1
+  },
+  "duration": 15000
+}

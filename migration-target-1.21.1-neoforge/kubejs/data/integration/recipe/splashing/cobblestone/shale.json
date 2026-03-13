@@ -1,0 +1,27 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/shale"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.08,
+      "id": "tfc:ore/small_bismuthinite"
+    },
+    {
+      "chance": 0.02,
+      "id": "tfc:ore/cinnabar"
+    },
+    {
+      "chance": 0.04,
+      "id": "tfc:ore/small_limonite"
+    },
+    {
+      "chance": 0.06,
+      "id": "tfc:ore/small_magnetite"
+    }
+  ],
+  "processing_time": 150
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_calcite"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_calcite"
+    }
+  ],
+  "processing_time": 100
+}

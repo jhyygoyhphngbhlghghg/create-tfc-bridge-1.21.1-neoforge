@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tfc:food/soybean"
+    }
+  ],
+  "results": [
+    {
+      "amount": 50,
+      "id": "minecraft:milk"
+    },
+    {
+      "id": "tfc:straw"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "announceReload": true,
+  "disableClassFilter": true,
+  "serverOnly": false,
+  "hideServerScriptErrors": false,
+  "packmode": "default",
+  "printRemappedClasses": false,
+  "debugInfo": false
+}

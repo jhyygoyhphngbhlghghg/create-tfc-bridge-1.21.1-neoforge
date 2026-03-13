@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_scoria"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:layered_scoria"
+    }
+  ],
+  "processing_time": 100
+}

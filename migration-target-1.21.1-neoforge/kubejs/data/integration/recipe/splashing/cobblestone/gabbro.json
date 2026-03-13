@@ -1,0 +1,31 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/gabbro"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.05,
+      "id": "tfc:ore/small_bismuthinite"
+    },
+    {
+      "chance": 0.04,
+      "id": "tfc:ore/small_cassiterite"
+    },
+    {
+      "chance": 0.0101,
+      "id": "tfc:ore/cinnabar"
+    },
+    {
+      "chance": 0.08,
+      "id": "tfc:ore/small_garnierite"
+    },
+    {
+      "chance": 0.02,
+      "id": "tfc:ore/small_native_gold"
+    }
+  ],
+  "processing_time": 150
+}

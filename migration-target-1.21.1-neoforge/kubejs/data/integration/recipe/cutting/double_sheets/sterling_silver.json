@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/double_sheet/sterling_silver"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tfc:metal/sheet/sterling_silver"
+    }
+  ],
+  "processing_time": 200
+}

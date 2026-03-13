@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfc:raw_iron_bloom"
+    },
+    {
+      "tag": "integration:tier_3_hammers"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfc:refined_iron_bloom"
+    }
+  ],
+  "keep_held_item": true
+}

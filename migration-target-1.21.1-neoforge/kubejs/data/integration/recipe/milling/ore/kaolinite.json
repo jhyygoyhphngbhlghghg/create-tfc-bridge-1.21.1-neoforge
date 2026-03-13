@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "tfc:ore/kaolinite"
+      "item": "tfc:kaolin_clay"
     }
   ],
   "results": [

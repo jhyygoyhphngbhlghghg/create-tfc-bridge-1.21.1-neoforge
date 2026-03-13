@@ -30,5 +30,8 @@ StartupEvents.registry('item', event =>
     event.create('crystalisation_catalyst').displayName('Crystallisation Catalyst')
     event.create('sugarcane_strip').displayName('Sugarcane Strip')
 
-    event.create('bone_broth').displayName('Bone Broth')
-}
+    event.create('bone_broth').displayName('Bone Broth').food(food =>
+    {
+        food.nutrition(8).saturation(8)
+    })
+})

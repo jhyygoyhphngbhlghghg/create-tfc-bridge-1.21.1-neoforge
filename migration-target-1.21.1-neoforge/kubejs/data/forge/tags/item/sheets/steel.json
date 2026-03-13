@@ -1,0 +1,7 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   "#c:sheets/steel",
+                   "tfc:metal/sheet/steel"
+               ]
+}

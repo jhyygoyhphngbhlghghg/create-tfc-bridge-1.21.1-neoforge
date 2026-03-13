@@ -1,0 +1,9 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   "#c:ingots",
+                   "minecraft:iron_ingot",
+                   "minecraft:copper_ingot",
+                   "minecraft:gold_ingot"
+               ]
+}

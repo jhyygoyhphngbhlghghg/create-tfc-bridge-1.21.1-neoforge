@@ -1,0 +1,7 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   "#c:double_ingots",
+                   "tfc:metal/double_ingot/wrought_iron"
+               ]
+}

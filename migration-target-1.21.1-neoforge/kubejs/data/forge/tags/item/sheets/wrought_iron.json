@@ -1,0 +1,7 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   "#c:sheets/wrought_iron",
+                   "tfc:metal/sheet/wrought_iron"
+               ]
+}
